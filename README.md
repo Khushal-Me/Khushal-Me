@@ -2,7 +2,7 @@
 
 
 ## About Me
-I'm a student at Western University in Canada, pursuing an Honours Specialization in Computer Science.
+I'm a Computer Science student studying at Western University. I am based in Toronto, Canada 🇨🇦!
 
 [![](https://komarev.com/ghpvc/?username=Khushal-Me&color=000000&style=for-the-badge&base=581&abbreviated=true)](https://github.com/Khushal-Me?tab=repositories)
 
