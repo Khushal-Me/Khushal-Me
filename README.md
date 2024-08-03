@@ -56,3 +56,7 @@ When I'm not coding, you can find me:
 
 ## 📫 Let's Connect
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/khushal-mehta/) for collaborations or just to chat about tech, AI, or gaming!
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
