@@ -1,8 +1,6 @@
 # Hello, I'm Khushal Mehta! 👋
 
-
-## About Me
-I'm a Computer Science student studying at Western University. I am based in Toronto, Canada 🇨🇦!
+Computer Science student studying at Western University. I am based in Canada 🇨🇦!
 
 [![](https://komarev.com/ghpvc/?username=Khushal-Me&color=000000&style=for-the-badge&base=581&abbreviated=true)](https://github.com/Khushal-Me?tab=repositories)
 
