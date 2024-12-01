@@ -1,8 +1,16 @@
+<div align="center">
+
 # Hello, I'm Khushal Mehta! 👋
 
-Computer Science student studying at Western University. I am based in Canada 🇨🇦!
+<br>
+ 
+Computer Science student at Western University. I am based in Toronto, Canada 🇨🇦!
 
+<br>
+ 
 [![](https://komarev.com/ghpvc/?username=Khushal-Me&color=000000&style=for-the-badge&base=1&abbreviated=true)](https://github.com/Khushal-Me?tab=repositories)
+
+</div>
 
 ## 🚀 Skills
 <div align="center">
@@ -16,6 +24,12 @@ Computer Science student studying at Western University. I am based in Canada �
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/></code>
 </div>
 
+
+## 📝 My Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushal-Me&theme=shadow_blue&layout=compact"width="40%"/> 
+</p>  
 
 ## 🛠️ Projects
 I've worked on various projects demonstrating my skills in programming languages and frameworks.
