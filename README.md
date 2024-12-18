@@ -4,7 +4,7 @@
 
 <br>
  
-Computer Science student at Western University. I am based in Toronto, Canada 🇨🇦!
+Computer Science student at Western University. I am based in Canada 🇨🇦!
 
 <br>
  
