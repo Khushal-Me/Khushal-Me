@@ -21,8 +21,7 @@ Computer Science student at Western University. I am based in Canada 🇨🇦!
 
 ## 🛠️ Projects
 I've worked on various projects demonstrating my skills in programming languages and frameworks.
-These range from web applications using Django to Java-based utilities, from multiplayer games with network programming to algorithm implementations. 
-My projects showcase my ability to work with front-end and back-end technologies, implement data structures and algorithms, and integrate security features like encryption.
+My projects showcase my ability to work with front-end and back-end technologies, implement data structures and algorithms, and integrate AI features.
 
 For detailed information and to try specific projects, check out my GitHub repositories!
 
@@ -32,20 +31,18 @@ I'm committed to continuous learning and have earned numerous certifications fro
 
 - Cloud Computing and Infrastructure
 - Artificial Intelligence and Machine Learning
-- Responsible AI and Ethics
 - Data Analysis and Big Data
-- Software Engineering and DevOps
 
-These certifications reflect my training and understanding of the latest technologies and best practices in the field of computer science and AI.
+These certifications reflect my training and understanding of the latest technologies and best practices in computer science and AI.
 
-For a comprehensive list of my certifications, please visit my [LinkedIn profile](https://www.linkedin.com/in/khushal-mehta/).
+For a list of my certifications, please visit my [LinkedIn profile](https://www.linkedin.com/in/khushal-mehta/).
 
 
 ## 🤖 AI Interests
 I'm passionate about exploring and implementing AI technologies, including:
-- Large Language Models (LLMs) like Llama 2 and Gemini API
+- Large Language Models (LLMs)
 - Stable Diffusion models
-- Chatbots and conversational AI
+- Chatbots and Generative AI
 
 
 ## 🎮 Hobbies
@@ -55,7 +52,7 @@ When I'm not coding, you can find me:
 
 
 ## 📫 Let's Connect
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/khushal-mehta/) for collaborations or just to chat about tech, AI, or gaming!
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/khushal-mehta/) for collaborations or just to chat about tech, AI, or gaming!
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
