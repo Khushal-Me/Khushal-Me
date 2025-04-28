@@ -20,29 +20,7 @@ Computer Science student at Western University. I am based in Canada 🇨🇦!
 </p>  
 
 ## 🛠️ Projects
-I've worked on various projects demonstrating my skills in programming languages and frameworks.
-My projects showcase my ability to work with front-end and back-end technologies, implement data structures and algorithms, and integrate AI features.
-
-For detailed information and to try specific projects, check out my GitHub repositories!
-
-
-## 🎓 Certifications
-I'm committed to continuous learning and have earned numerous certifications from industry leaders like Google and AWS. These certifications cover a wide range of topics including:
-
-- Cloud Computing and Infrastructure
-- Artificial Intelligence and Machine Learning
-- Data Analysis and Big Data
-
-These certifications reflect my training and understanding of the latest technologies and best practices in computer science and AI.
-
-For a list of my certifications, please visit my [LinkedIn profile](https://www.linkedin.com/in/khushal-mehta/).
-
-
-## 🤖 AI Interests
-I'm passionate about exploring and implementing AI technologies, including:
-- Large Language Models (LLMs)
-- Stable Diffusion models
-- Chatbots and Generative AI
+ ![Github Contributions](https://greptile-stats.vercel.app/api/widget/Khushal-Me/contributions)
 
 
 ## 🎮 Hobbies
