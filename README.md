@@ -19,10 +19,6 @@ Computer Science student at Western University. I am based in Canada 🇨🇦!
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushal-Me&theme=shadow_blue&layout=compact"width="40%"/> 
 </p>  
 
-## 🛠️ Projects
- ![Github Contributions](https://greptile-stats.vercel.app/api/widget/Khushal-Me/contributions)
-
-
 ## 🎮 Hobbies
 When I'm not coding, you can find me:
 - Playing basketball
