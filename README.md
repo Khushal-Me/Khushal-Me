@@ -6,6 +6,8 @@
  
 Computer Science student at Western University. I am based in Canada 🇨🇦!
 
+https://www.khushalmehta.tech
+<br>
 <br>
  
 [![](https://komarev.com/ghpvc/?username=Khushal-Me&color=000000&style=for-the-badge&base=1&abbreviated=true)](https://github.com/Khushal-Me?tab=repositories)
