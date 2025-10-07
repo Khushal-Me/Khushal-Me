@@ -6,7 +6,7 @@
  
 Computer Science student at Western University. I am based in Canada 🇨🇦!
 
-https://www.khushalmehta.tech
+[https://www.khushalmehta.tech/](https://www.khushalmehta.tech/)
 <br>
 <br>
  
