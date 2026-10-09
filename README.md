@@ -4,7 +4,7 @@
 
 <br>
  
-Computer Science student at Western University. I am based in Canada 🇨🇦!
+Software Engineer surrounded by AI. Based in Toronto, Canada 🇨🇦!
 
 [https://www.khushalmehta.vercel.app/](https://www.khushalmehta.vercel.app/)
 <br>
